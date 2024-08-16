@@ -187,5 +187,9 @@
         font-weight: bolder;
         font-family: cursive;
     }
+    .banner .content h2 {
+        font-size: 1.5em;
+        color: #25283B;
+    }
 
 }
