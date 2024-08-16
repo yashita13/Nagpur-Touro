@@ -178,13 +178,14 @@
     }
 
     .banner .content h1 {
-        font-size: 5em;
+        font-size: 6em;
         text-shadow: 0 10px 20px #000;
     }
 
     .banner .slider .item .card-body h5 {
-        font-size: 0.4em;
+        font-size: 0.6em;
         font-weight: bolder;
+        font-family: cursive;
     }
 
 }
