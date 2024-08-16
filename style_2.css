@@ -187,6 +187,12 @@
         font-weight: bolder;
         font-family: cursive;
     }
+     .banner .content .author {
+        font-family: Poppins;
+        text-align: right;
+        max-width: 200px;
+        margin-top: 170px;
+    }
     .banner .content h2 {
         font-size: 1.5em;
         color: #25283B;
