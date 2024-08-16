@@ -187,10 +187,9 @@
         font-weight: bolder;
         font-family: cursive;
     }
-     .banner .content .author {
+      .banner .content .author {
         font-family: Poppins;
-        max-width: 200px;
-        margin-top: 180px;
+        margin-top: 150px;
     }
     .banner .content h2 {
         font-size: 1.5em;
